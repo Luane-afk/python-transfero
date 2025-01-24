@@ -1,1 +1,39 @@
 Criei esse arquivo para fins de anotação.
+
+Aula 24/01/2025
+
+*.log  todos os arquivos que tem o nome .log e pra ser ignorado.
+
+if -> se 
+else -> If <> if <> 
+
+----- // ----- 
+let idade = 15
+
+if (idade >= 18)
+if (idade >= 16)
+if (idade <= 70)
+
+let time =" botafogo "
+if(time=="botafogo")  # let e uma variavél 
+
+
+=se(cond;VV;VF)
+
+if(idade>=16){
+    console.log("Vota")
+}else{
+    console.log("Não votar")
+}
+
+{
+    console.log("Em dezemobro de 81 botou os ingleses na roda")
+} else if {
+    console.log("Não é Flamengo") {
+} else if(time == "Palmeiras") {
+    console.log("Palmeiras não tem mundial")
+} else if (time ==  "Vasco") {
+    console.log(" Sou pequeno perto do flamengo")
+} else {
+    console.log("Isso é bairro e não time")
+}
