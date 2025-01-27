@@ -190,7 +190,7 @@ switch (true) {
 let intervalo2 = 50
 
 switch (true) {
-    case (intervalo2 >= 1 && intervalo2<=10 || intervalo2 >=50 && intervalo2<=100):
+    case ((intervalo2 >= 1 && intervalo2<=10) || (intervalo2 >=50 && intervalo2<=100)):
         console.log("Número válido");
         break;
     default:
@@ -211,6 +211,16 @@ switch (true) {
     default:
         console.log()
 }
+// outra possivel
+let idade = 17
+let acompanhado = 'não'
+
+if (idade >= 18 || (idade >= 16 && acompanhado == 'sim')) {
+    console.log('Pode comprar bebidas')
+} else {
+    console.log('Não Pode comprar bebidas')
+}
+
 
 //Verificar se uma pessoa pode tirar férias
 
@@ -223,3 +233,7 @@ switch (true) {
     default:
         console.log("Não pode tirar férias :X")
 }
+
+// Verificar se uma pessoa pode dirigir ou votar
+
+let dirigir 
