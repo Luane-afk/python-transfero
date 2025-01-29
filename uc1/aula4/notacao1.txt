@@ -2,3 +2,4 @@ switch = caso
 
  boa pratica de usar ; , e começar com let na variavél 
  
+ ! - precione o esclamação e depois clica no entre .!!
