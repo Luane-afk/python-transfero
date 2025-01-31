@@ -26,8 +26,8 @@
 
 // Usando o FOR IN *
 
-const carros = ["BMW","Volvo","Celta","Pálio","Chavet"];
-for (i in carros){
-    document.write(i+" - ");
-    document.write(carros[i]+"<br>");
-}
+// const carros = ["BMW","Volvo","Celta","Pálio","Chavet"];
+// for (i in carros){
+//     document.write(i+" - ");
+//     document.write(carros[i]+"<br>");
+// }
