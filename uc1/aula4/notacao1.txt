@@ -3,3 +3,21 @@ switch = caso
  boa pratica de usar ; , e começar com let na variavél 
  
  ! - precione o esclamação e depois clica no entre .!!
+
+ aula 6 / 31/01/25 
+
+ Estrutura de repetição .
+
+ -  While 
+ let numero = 0;
+//console.log(numero)
+
+while ( numero <=10) {
+    document.write(numero); 
+    numero++;     #deixando assim fica em loop infinito, logo após colocamos a condição ++  ## +<br> quebra linha *
+}  
+
+
+* while (i<carros.length) # length tamanho da lista ***
+
+* for in permite que consulta uma lista dentro de um objeto 
