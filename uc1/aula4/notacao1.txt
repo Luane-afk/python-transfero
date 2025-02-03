@@ -21,3 +21,4 @@ while ( numero <=10) {
 * while (i<carros.length) # length tamanho da lista ***
 
 * for in permite que consulta uma lista dentro de um objeto 
+
